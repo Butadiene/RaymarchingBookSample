@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/3rdChapterSample/OptimizedSample/SampleScene.unity
+- path: Assets/3rdChapterSample/SupplementSample/TwistSample/SampleScene.unity
   isLoaded: 1
   isActive: 1
