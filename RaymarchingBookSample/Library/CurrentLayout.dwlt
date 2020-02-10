@@ -13,14 +13,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 243
-    y: 154
+    x: 282
+    y: 158
     width: 1520
     height: 673
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 3}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -65,7 +65,7 @@ MonoBehaviour:
     y: 0
     width: 1520
     height: 673
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &4
 MonoBehaviour:
@@ -454,9 +454,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6c2f0000
-    m_LastClickedID: 12140
-    m_ExpandedIDs: f8a2feff44a4feffbea5feffa4b8feff80b9feff58d0feffa0d1feff06d4feff9edefeff0ae4feffa8eafeff2cf4feffc4f4feffecfbfeffeefdfeff7601ffffd61cffff6a1dffffa643ffff3a44ffff0a45ffffd845ffff6c46ffff5e6bffff726fffffa870ffff8477ffffc283ffff5484ffff2885ffffbc85ffff3e9affffae9effff8ea1ffff60a4ffff5ea9ffff4cafffffeae0ffffc2e2ffff84fbffff00000000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 84fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -501,8 +501,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 429
-    y: 203
+    x: 468
+    y: 207
     width: 824
     height: 331
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -512,9 +512,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.33821464, y: -0.2849418, z: 1.2603745}
+    m_Target: {x: -0.5451225, y: -0.737072, z: 1.6970761}
     speed: 2
-    m_Value: {x: -0.33821464, y: -0.2849418, z: 1.2603745}
+    m_Value: {x: -0.5451225, y: -0.737072, z: 1.6970761}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -538,9 +538,9 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.20268935, y: -0.32119742, z: 0.07058258, w: 0.92237055}
+    m_Target: {x: -0.20717916, y: 0.032861628, z: -0.0069633108, w: -0.97772616}
     speed: 2
-    m_Value: {x: 0.20268935, y: -0.32119742, z: 0.07058258, w: 0.92237055}
+    m_Value: {x: -0.20717916, y: 0.032861628, z: -0.0069633108, w: -0.97772616}
   m_Size:
     m_Target: 4.0578837
     speed: 2
@@ -733,19 +733,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/3rdChapterSample/SupplementSample/TwistSample
+    - Assets/3rdChapterSample/OptimizedSample
   m_ViewMode: 1
   m_StartGridSize: 89
   m_LastFolders:
-  - Assets/3rdChapterSample/SupplementSample/TwistSample
+  - Assets/3rdChapterSample/OptimizedSample
   m_LastFoldersGridSize: 89
   m_LastProjectPath: C:\Users\kaona\Documents\RaymarchingBookSample\RaymarchingBookSample
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 139}
-    m_SelectedIDs: b82e0000
-    m_LastClickedID: 11960
-    m_ExpandedIDs: 00000000922700009c270000c0270000042800009828000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 43}
+    m_SelectedIDs: 5e280000
+    m_LastClickedID: 10334
+    m_ExpandedIDs: 000000009e270000a8270000da2700002a28000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -773,7 +773,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000922700009c270000c027000004280000
+    m_ExpandedIDs: 000000009e270000a8270000da270000e82700002a280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
